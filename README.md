@@ -26,5 +26,3 @@ debe certificar la existencia del producto en bodega para reposición. Si el pre
 supera los 1000 USD, se requiere además la aprobación del gerente de la tienda. Los responsables de las
 actividades podrían cambiar en cualquier momento y el software debería ser lo suficientemente flexible
 para lidiar con ello.
-
-## Diagramas UML de los patrones aplicados
