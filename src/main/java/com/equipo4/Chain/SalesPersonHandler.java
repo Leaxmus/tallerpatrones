@@ -1,0 +1,7 @@
+package com.equipo4.Chain;
+
+public class SalesPersonHandler extends IApprovalHandler {
+    public void handlerRequest(ChangeRequest request) {
+        // manejo de request
+    }
+}
